@@ -8,4 +8,7 @@ Together with our commercial and academic partners, we provide thought-leadershi
 All projects are governed by Eclipse and are open-source by default.
 
 
-Read more: (Tangle EE Working Group Charter)[https://www.eclipse.org/org/workinggroups/tangle_ee_charter.php]
+Read more: [Tangle EE Working Group Charter](https://www.eclipse.org/org/workinggroups/tangle_ee_charter.php)
+
+## Meeting Notes
+[link to notes](./meeting-notes/README.md)
