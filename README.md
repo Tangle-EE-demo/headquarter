@@ -9,4 +9,4 @@ Read more: [https://tangle.ee](https://tangle.ee/)
 
 - [General](./general/README.md)
 - [Tangle Identity](./identity/README.md)
-- [Tangle Marketplaces](:/marketplaces/README.md)
+- [Tangle Marketplaces](/marketplaces/README.md)
